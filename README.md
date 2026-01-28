@@ -15,7 +15,8 @@ To ensure correctness, I added assertions to validate expected outcomes, simulat
 The main challenge was designing clear validation rules without overcomplicating the logic.
 
 ## Output Screenshots
-(Embed terminal screenshot showing PASS/FAIL results)
+
+<img width="1915" height="1015" alt="Screenshot 2026-01-28 103039" src="https://github.com/user-attachments/assets/5251704b-f44c-43b4-9561-24dada326528" />
 
 ## Future Improvements
 If I had two more days, I would:
